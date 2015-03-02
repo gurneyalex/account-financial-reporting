@@ -97,7 +97,7 @@ wkhtmltopdf. The texts are defined inside the report classes.
 
 """,
     'version': '1.0',
-    'author': 'Camptocamp',
+    'author': "Camptocamp,Odoo Community Association (OCA)",
     'category': 'Finance',
     'website': 'http://www.camptocamp.com',
     'images': [

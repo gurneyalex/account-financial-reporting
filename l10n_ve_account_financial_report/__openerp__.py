@@ -16,7 +16,7 @@
 {
 	"name" : "Reportes Financieros",
 	"version" : "0.3",
-	"author" : "Vauxoo & Industrias Diana C.A.",
+	"author" : "Vauxoo & Industrias Diana C.A.,Odoo Community Association (OCA)",
 	"website" : "http://wiki.openerp.org.ve/",
 	"depends" : ["base","account"],
 	"category" : "Localisation/Accounting",
